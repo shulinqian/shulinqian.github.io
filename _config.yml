@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 暴躁的码农
+email: qian@post.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  无暴躁，不编程，我爱暴躁，我爱编程，编程使我暴躁。精通PHP、PYTHON、C、C++、Java、C#、VB、HTML、Delphi、JavaScript、PHP等语言的拼写,熟练PhotoShop、Illustrator CS、CorelDraw、Flash CS、AutoCAD、Office等软件的卸载,掌握Windows Server、Unix、Lunix等操作系统的关机
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: https://shulinqian.github.io/ # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: qian
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,15 +14,15 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+twitter: qian
+weibo: qian
+github: qian
+instagram: qian
+linkedin: qian
 
 # avatar and Favicon
-avatar: http://imgs.yansu.org/site-avatar.png
-favicon: http://imgs.yansu.org/site-favicon.ico
+avatar: https://www.picb.cc/image/Jbt8Q8
+favicon: http://www.zacms.com/favicon.ico
 
 # disqus config
 disqus:
@@ -30,8 +30,8 @@ disqus:
 
 # google analytics config
 ga:
-  id: UA-54767140-1
-  url: yansu.org
+  id: UA-54767140-2
+  url: shulinqian.github
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
